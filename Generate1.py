@@ -1,5 +1,5 @@
 #####################################################################
-# Version: 1.1
+# Version: 1.2
 # Author: Bevlin Reddy, databreddy@gmail.com 
 # Description: Using modulus we will receive a list of remainers. The 
 # objective is to determine the orginal number.
@@ -67,4 +67,3 @@ find_number(divisor1a, remainder1a, divisor2a, remainer2a, divisor3a, remainer3a
 # but I would know if i  > num/2
 
 # (num - rem)%i = 0
-    
